@@ -1,0 +1,45 @@
+
+label{
+	width: 20%;
+	display:inline-block ;
+	text-align:left;
+}
+body{
+	width:50%;
+	font-family:arial;
+	margin:5px auto;
+	padding:20%;
+	color: #1abc9c;
+}
+fieldset{
+	border-radius: 8px;
+}
+legend{
+	font-size:1.4em;
+	margin-bottom: 10px ;
+}
+input[type="text"],input[type="int"],input[type="email"],input[type="tel"],input[type="password"]{
+border-radius: 5px;
+padding: 10px;
+width: 70%;
+background-color: #ffff;	
+margin:10px;
+}
+ input[type="submit"]{
+	position:relative;
+	padding: 20px;
+	font-size:18px;
+	border:1px solid #16a085;
+	border-radius: 2px;
+	margin-top: 8px;
+	width: 100%;
+	font-size :10px;
+	font-style:bold;
+	color: #000 ;
+ }
+
+
+
+	
+
+   
